@@ -58,3 +58,10 @@ img{
     border:none;
     border-radius:5px;
 }
+#particles-js{
+    
+   position:absolute;
+   top:0;
+   z-index:-1;
+    height:50vh;
+}
